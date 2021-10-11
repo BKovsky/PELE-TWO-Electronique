@@ -11,7 +11,7 @@ Tout et n'importe quoi sur l'électronique
 [Lien3](url)
 
 ### Les diodes
-[The Engeneering Mindset](https://www.youtube.com/watch?v=hmsbOZJKOV0)<br>
+[<b>Les diodes expliquées - The Engeneering Mindset</b>](https://www.youtube.com/watch?v=hmsbOZJKOV0)<br>
 Description : Fonctionnement des diodes<br>
 Type : Vidéo<br>
 Durée : 12 min<br>
